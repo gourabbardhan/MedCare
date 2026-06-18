@@ -8,7 +8,7 @@ const OurServices = () => {
      {/* mini-banner */}
 
       <section className='mini-banner'>
-        <img src="images/priotize.jpg" alt="priotize-banner" />
+        <img src="/MedCare/images/priotize.jpg" alt="priotize-banner" />
         <div className='container'>
           <div className='about-banner'>
             <h3>Our Services</h3>
@@ -27,7 +27,7 @@ const OurServices = () => {
                 <h4>Key Features</h4>
                 <h2 data-aos="fade-up" data-aos-duration="1000">Transformative Therapy and Counseling Services</h2>
                 <div className='old-boss'>
-                  <img src="images/col-img.jpg" alt="old-boss" />
+                  <img src="/MedCare/images/col-img.jpg" alt="old-boss" />
                   <button className='old-btns' data-bs-toggle="modal" data-bs-target="#con-sel"><i className="fa-solid fa-play"></i></button>
                 </div>
               </div>
@@ -35,7 +35,7 @@ const OurServices = () => {
             <div className='col-lg-6 col-md-6 col-sm-12'>
               <div className='col-seling-right'>
                 <div className='seling-boss-img'>
-                  <img src="images/tea-pic.jpg" alt="tea-pic" />
+                  <img src="/MedCare/images/tea-pic.jpg" alt="tea-pic" />
                 </div>
                 <h3>15 Years Of Experienced</h3>
                 <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
@@ -192,7 +192,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       <div className="col-lg-6 col-md-12 col-sm-12">
         <div className='col-conimg'>
           <div className='upper-conimg'>
-            <img src="images/hol-6.jpg" alt="conimg" />
+            <img src="/MedCare/images/hol-6.jpg" alt="conimg" />
             <div className='conimg-txt' data-aos="flip-left" data-aos-duration="1100">
               <h3>Live Consulting</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -200,7 +200,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
             </div>
           </div>
           <div className='upper-conimg'>
-            <img src="images/col-img.jpg" alt="conimg" />
+            <img src="/MedCare/images/col-img.jpg" alt="conimg" />
             <div className='conimg-txt' data-aos="flip-left" data-aos-duration="1100">
               <h3>Expert Package</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -228,7 +228,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       {/* Prioritize */}
 
 <section className='prioritize'>
-  <img src="images/priotize.jpg" alt="priotize" />
+  <img src="/MedCare/images/priotize.jpg" alt="priotize" />
   <div className='container'>
     <div className='prio-wrap'>
       <h2 data-aos="zoom-in" data-aos-duration="1000">Ready to prioritize your mental health?</h2>

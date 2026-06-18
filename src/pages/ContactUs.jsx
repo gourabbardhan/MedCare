@@ -8,7 +8,7 @@ const ContactUs = () => {
       {/* mini-banner */}
 
       <section className='mini-banner'>
-        <img src="images/cont-banner.jpg" alt="cont-banner" />
+        <img src="/MedCare/images/cont-banner.jpg" alt="cont-banner" />
         <div className='container'>
           <div className='about-banner'>
             <h3>Contact Us</h3>

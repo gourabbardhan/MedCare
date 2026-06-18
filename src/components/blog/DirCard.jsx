@@ -2,6 +2,7 @@ import React from 'react'
 
 const DirCard = ({image, name, post}) => {
   return (
+    <>
     <div className='dir-card'>
       <div className='dirc-img'>
         <div className='dirc-img-up'>
@@ -20,7 +21,10 @@ const DirCard = ({image, name, post}) => {
         <h5>{post}</h5>
       </div>
     </div>
+      
+    </>
   )
 }
 
 export default DirCard
+

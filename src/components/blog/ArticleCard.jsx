@@ -5,11 +5,18 @@ const ArticleCard = () => {
     const [cards, setCards] = useState([]);
     const [visibleCards, setVisibleCards] = useState(3);
 
-    useEffect(() => {
-        fetch("/src/data/data.json")
-            .then((res) => res.json())
-            .then((data) => setCards(data));
+            useEffect(() => {
+        fetch("./data/data.json") 
+            .then((res) => {
+                if (!res.ok) {
+                    throw new Error("HTTP error " + res.status);
+                }
+                return res.json();
+            })
+            .then((data) => setCards(data))
+            .catch((err) => console.error("ডাটা লোড হয়নি:", err));
     }, []);
+
 
     const handleMore = () => {
         setVisibleCards((prev) => prev + 3);
@@ -28,7 +35,7 @@ const ArticleCard = () => {
                             image={artcard.image}
                             title={artcard.title}
                             body={artcard.body}
-                        />
+                        />     
                     </div>
                 ))}
             </div>

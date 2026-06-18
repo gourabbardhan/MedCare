@@ -42,13 +42,13 @@ const HolSlider = () => {
     <div>
       <Slider key={location.key} {...settings}>
         <div className='hols-img-wrap'>
-          <div className='hol-img'><img src="images/hol-4.jpg" alt="hol-pic" /></div>
+          <div className='hol-img'><img src="/MedCare/images/hol-4.jpg" alt="hol-pic" /></div>
         </div>
         <div className='hols-img-wrap'>
-          <div className='hol-img'><img src="images/hol-5.jpg" alt="hol-pic" /></div>
+          <div className='hol-img'><img src="/MedCare/images/hol-5.jpg" alt="hol-pic" /></div>
         </div>
         <div className='hols-img-wrap'>
-          <div className='hol-img'><img src="images/hol-6.jpg" alt="hol-pic" /></div>
+          <div className='hol-img'><img src="/MedCare/images/hol-6.jpg" alt="hol-pic" /></div>
         </div>
         
       </Slider>

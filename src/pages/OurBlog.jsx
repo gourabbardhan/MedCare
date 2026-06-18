@@ -8,7 +8,7 @@ const OurBlog = () => {
     {/* mini-banner */}
 
       <section className='mini-banner'>
-        <img src="images/col-img.jpg" alt="blog-banner" />
+        <img src="/MedCare/images/col-img.jpg" alt="blog-banner" />
         <div className='container'>
           <div className='about-banner'>
             <h3>Our Blog</h3>

@@ -14,7 +14,7 @@ const Home = () => {
 
       <section className='main-banner'>
         <div className='banner-img'>
-          <img src="images/banner.jpg" alt="banner img" />
+          <img src="/MedCare/images/banner.jpg" alt="banner img" />
           <div className='container'>
             <div className='banner-txt-wrap'>
               <h4>Find Support & Healing</h4>
@@ -37,7 +37,7 @@ const Home = () => {
             <div className='row well-row'>
               <div className="col-lg-6 col-md-5 col-sm-12">
                 <div className='well-img'>
-                  <img src="images/tea-pic.jpg" alt="tea pic" />
+                  <img src="/MedCare/images/tea-pic.jpg" alt="tea pic" />
                 </div>
               </div>
               <div className="col-lg-6 col-md-7 col-sm-12">
@@ -71,7 +71,7 @@ const Home = () => {
         <div className='container'>
           <div className='trans-wrap'>
             <div className='formative-img'>
-            <img src="images/Transformat.jpg" alt="Transformat" />
+            <img src="/MedCare/images/Transformat.jpg" alt="Transformat" />
             <button className='format-play' data-bs-toggle="modal" data-bs-target="#transform-pop"><i className="fa-solid fa-play"></i></button>
           </div>
           <div className='trams'>
@@ -159,11 +159,11 @@ const Home = () => {
             <div className='col-lg-6 col-md-12 col-sm-12'>
               <div className='col-hol-pic'>
                 <div className='double-pic'>
-                  <div className='double-left-pic'><img src="images/hol-2.jpg" alt="hol-pic" /></div>
-                  <div className='double-left-pic'><img src="images/hol-1.jpg" alt="hol-pic" /></div>
+                  <div className='double-left-pic'><img src="/MedCare/images/hol-2.jpg" alt="hol-pic" /></div>
+                  <div className='double-left-pic'><img src="/MedCare/images/hol-1.jpg" alt="hol-pic" /></div>
                 </div>
                 <div className='one-pic'>
-                  <img src="images/hol-3.jpg" alt="hol-pic" />
+                  <img src="/MedCare/images/hol-3.jpg" alt="hol-pic" />
                   <button className='format-play-twice' data-bs-toggle="modal" data-bs-target="#hol-popup"><i className="fa-solid fa-play"></i></button>
                 </div>
               </div>
@@ -271,7 +271,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       <div className="col-lg-6 col-md-12 col-sm-12">
         <div className='col-conimg'>
           <div className='upper-conimg'>
-            <img src="images/hol-6.jpg" alt="conimg" />
+            <img src="/MedCare/images/hol-6.jpg" alt="conimg" />
             <div className='conimg-txt' data-aos="flip-left" data-aos-duration="1100">
               <h3>Live Consulting</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -279,7 +279,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
             </div>
           </div>
           <div className='upper-conimg'>
-            <img src="images/col-img.jpg" alt="conimg" />
+            <img src="/MedCare/images/col-img.jpg" alt="conimg" />
             <div className='conimg-txt' data-aos="flip-left" data-aos-duration="1100">
               <h3>Expert Package</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -307,7 +307,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 {/* Prioritize */}
 
 <section className='prioritize'>
-  <img src="images/priotize.jpg" alt="priotize" />
+  <img src="/MedCare/images/priotize.jpg" alt="priotize" />
   <div className='container'>
     <div className='prio-wrap'>
       <h2 data-aos="zoom-in" data-aos-duration="1000">Ready to prioritize your mental health?</h2>
@@ -352,7 +352,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
     <div className='row tun-box'>
       <div className='col-lg-6 col-sm-12'>
         <div className='col-tun-box'>
-          <img src="images/tune.jpg" alt="tune" />
+          <img src="/MedCare/images/tune.jpg" alt="tune" />
           <div className='tune-time' data-aos="fade-right" data-aos-duration="1000">
             <h3>Our Business</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>

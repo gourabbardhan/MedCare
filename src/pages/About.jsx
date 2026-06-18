@@ -11,7 +11,7 @@ const About = () => {
     {/* mini-banner */}
 
       <section className='mini-banner'>
-        <img src="images/About-banner.jpg" alt="about-banner" />
+        <img src="/MedCare/images/About-banner.jpg" alt="about-banner" />
         <div className='container'>
           <div className='about-banner'>
             <h3>About Us</h3>
@@ -28,7 +28,7 @@ const About = () => {
             <div className='row well-row'>
               <div className="col-lg-6 col-md-6 col-sm-12">
                 <div className='well-img'>
-                  <img src="images/tea-pic.jpg" alt="tea pic" />
+                  <img src="/MedCare/images/tea-pic.jpg" alt="tea pic" />
                 </div>
               </div>
               <div className="col-lg-6 col-md-6 col-sm-12">
@@ -71,7 +71,7 @@ const About = () => {
                 </div>
                 <div className='col-lg-4 col-md-4 col-sm-12'>
                   <div className='col-afri-img'>
-                    <img src="images/African-girl.jpg" alt="african-img" />
+                    <img src="/MedCare/images/African-girl.jpg" alt="african-img" />
                   </div>
                 </div>
               </div>
@@ -80,7 +80,7 @@ const About = () => {
               <div className='row ab-yoga'>
                 <div className='col-lg-4 col-md-4 col-sm-12'>
                   <div className='col-ab-yoga'>
-                    <img src="images/banner.jpg" alt="banner" />
+                    <img src="/MedCare/images/banner.jpg" alt="banner" />
                   </div>
                 </div>
                 <div className='col-lg-4 col-md-4 col-sm-12'>
@@ -203,11 +203,11 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
             <div className='col-lg-6 col-md-12 col-sm-12'>
               <div className='col-hol-pic'>
                 <div className='double-pic'>
-                  <div className='double-left-pic'><img src="images/hol-2.jpg" alt="hol-pic" /></div>
-                  <div className='double-left-pic'><img src="images/hol-1.jpg" alt="hol-pic" /></div>
+                  <div className='double-left-pic'><img src="/MedCare/images/hol-2.jpg" alt="hol-pic" /></div>
+                  <div className='double-left-pic'><img src="/MedCare/images/hol-1.jpg" alt="hol-pic" /></div>
                 </div>
                 <div className='one-pic'>
-                  <img src="images/hol-3.jpg" alt="hol-pic" />
+                  <img src="/MedCare/images/hol-3.jpg" alt="hol-pic" />
                   <button className='format-play-twice' data-bs-toggle="modal" data-bs-target="#hol-popup"><i className="fa-solid fa-play"></i></button>
                 </div>
               </div>
@@ -256,7 +256,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 {/* Ab-Schedule */}
 
 <section className='ab-schedule'>
-  <img src="images/Lonely-girl.jpg" alt="lonely-img" />
+  <img src="/MedCare/images/Lonely-girl.jpg" alt="lonely-img" />
   <div className='container'>
     <div className='schedu-txt'>
       <h3>Lets Get Started</h3>

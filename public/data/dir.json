@@ -3,36 +3,36 @@
         "id": "1",
         "name":"Mrs. Sarahea",
         "post":"Director",
-        "image":"/images/dir-1.jpg"
+        "image":"./images/dir-1.jpg"
     },
     {
         "id": "2",
         "name":"Mr. Djiatam",
         "post":"Director",
-        "image":"/images/dir-2.jpg"
+        "image":"./images/dir-2.jpg"
     },
     {
         "id": "3",
         "name":"Mrs. Consultita",
         "post":"Director",
-        "image":"/images/dir-3.jpg"
+        "image":"./images/dir-3.jpg"
     },
     {
         "id": "4",
         "name":"Mrs. Sarahea",
         "post":"Director",
-        "image":"/images/dir-1.jpg"
+        "image":"./images/dir-1.jpg"
     },
     {
         "id": "5",
         "name":"Mr. Djiatam",
         "post":"Director",
-        "image":"/images/dir-2.jpg"
+        "image":"./images/dir-2.jpg"
     },
     {
         "id": "6",
         "name":"Mrs. Consultita",
         "post":"Director",
-        "image":"/images/dir-3.jpg"
+        "image":"./images/dir-3.jpg"
     }
 ]
