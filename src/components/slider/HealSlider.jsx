@@ -50,7 +50,7 @@ const HealSlider = () => {
             </div>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
             <div className='cli-wrap'>
-              <div className='cli-img'><img src="/images/tea-pic.jpg" alt="tea-pic" /></div>
+              <div className='cli-img'><img src="images/tea-pic.jpg" alt="tea-pic" /></div>
               <div className='cli-txt'>
                 <h3>john doe</h3>
                 <h4>clients</h4>
@@ -70,7 +70,7 @@ const HealSlider = () => {
             </div>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
             <div className='cli-wrap'>
-              <div className='cli-img'><img src="/images/tea-pic.jpg" alt="tea-pic" /></div>
+              <div className='cli-img'><img src="images/tea-pic.jpg" alt="tea-pic" /></div>
               <div className='cli-txt'>
                 <h3>john doe</h3>
                 <h4>clients</h4>
@@ -90,7 +90,7 @@ const HealSlider = () => {
             </div>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
             <div className='cli-wrap'>
-              <div className='cli-img'><img src="/images/tea-pic.jpg" alt="tea-pic" /></div>
+              <div className='cli-img'><img src="images/tea-pic.jpg" alt="tea-pic" /></div>
               <div className='cli-txt'>
                 <h3>john doe</h3>
                 <h4>clients</h4>

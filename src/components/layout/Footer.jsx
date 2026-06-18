@@ -12,7 +12,7 @@ const Footer = () => {
           <div className='row foot-row'>
             <div className='col-lg-5 col-md-4 col-sm-12'>
               <div className='col-footlogo'>
-                <img src="/images/Minds-dark.png" alt="Logo" />
+                <img src="images/Minds-dark.png" alt="Logo" />
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
                 <div className='foot-mailwrap'>
                   <FooterEmail/>

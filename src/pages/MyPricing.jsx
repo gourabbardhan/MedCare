@@ -8,7 +8,7 @@ const MyPricing = () => {
      {/* pricing-banner */}
 
       <section className='pricing-banner'>
-        <img src="/images/hol-6.jpg" alt="pricing-banner" />
+        <img src="images/hol-6.jpg" alt="pricing-banner" />
         <div className='container'>
           <div className='pricing-banner-wrap'>
             <h3>Our Pricing</h3>
@@ -86,7 +86,7 @@ const MyPricing = () => {
           </div>
 
           <div className='partner-p'>
-            <img src="/images/dep-img.jpg" alt="dep-img" />
+            <img src="images/dep-img.jpg" alt="dep-img" />
             <div className='partm-txt'>
               <h2>Need Enterprise Partner Package ?</h2>
               <Link to='/' className='well-btn'>Contact Us Now <i className="fa-solid fa-right-long"></i></Link>
@@ -108,7 +108,7 @@ const MyPricing = () => {
               <h2 data-aos="fade-up" data-aos-duration="1000">Learn more about navigating insurance coverage for mental health services</h2>
               <div className='chin-nav'>
                 <div className='chin-imgs'>
-                  <img src="/images/chinese.jpg" alt="chinese" />
+                  <img src="images/chinese.jpg" alt="chinese" />
                 </div>
                 <div className='chin-txt'>
                   <div className='chin-txt-u'>
@@ -127,7 +127,7 @@ const MyPricing = () => {
           </div>
           <div className='col-lg-4 col-md-12 col-sm-12' data-aos="fade-right" data-aos-duration="1200">
             <div className='col-nav-r'>
-              <img src="/images/dir-1.jpg" alt="dir" />
+              <img src="images/dir-1.jpg" alt="dir" />
               <button className='nave-btn' data-bs-toggle="modal" data-bs-target="#navigass"><i className="fa-solid fa-play"></i></button>
             </div>
           </div>
@@ -211,7 +211,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 {/* Prioritize */}
 
 <section className='prioritize'>
-  <img src="/images/priotize.jpg" alt="priotize" />
+  <img src="images/priotize.jpg" alt="priotize" />
   <div className='container'>
     <div className='prio-wrap'>
       <h2 data-aos="zoom-in" data-aos-duration="1000">Ready to prioritize your mental health?</h2>

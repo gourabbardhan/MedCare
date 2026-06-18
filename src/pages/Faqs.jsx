@@ -8,7 +8,7 @@ const Faqs = () => {
       {/* mini-banner */}
 
       <section className='mini-banner'>
-        <img src="/images/faq-banner.jpg" alt="faq-banner" />
+        <img src="images/faq-banner.jpg" alt="faq-banner" />
         <div className='container'>
           <div className='about-banner'>
             <h3>faq</h3>
@@ -139,7 +139,7 @@ const Faqs = () => {
             <div className='col-lg-8 col-md-7 col-sm-12'>
               <div className='col-rech-right'>
                 <div className='rech-img'>
-                  <img src="/images/tea-pic.jpg" alt="tea-pic" />
+                  <img src="images/tea-pic.jpg" alt="tea-pic" />
                 </div>
                 <div className='rech-form' data-aos="fade-right" data-aos-duration="900">
                   <h3>Fill this form to get directly answered</h3>
@@ -261,7 +261,7 @@ const Faqs = () => {
       {/* Prioritize */}
 
 <section className='prioritize'>
-  <img src="/images/priotize.jpg" alt="priotize" />
+  <img src="images/priotize.jpg" alt="priotize" />
   <div className='container'>
     <div className='prio-wrap'>
       <h2 data-aos="zoom-in" data-aos-duration="1000">Ready to prioritize your mental health?</h2>

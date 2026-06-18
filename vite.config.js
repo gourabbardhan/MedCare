@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/Mental-Health/',
+   base: '/MedCare/',
 })

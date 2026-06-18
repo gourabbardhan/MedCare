@@ -10,7 +10,7 @@ const OurCases = () => {
       {/* mini-banner */}
 
       <section className='mini-banner'>
-        <img src="/images/hol-4.jpg" alt="priotize-banner" />
+        <img src="images/hol-4.jpg" alt="priotize-banner" />
         <div className='container'>
           <div className='about-banner'>
             <h3>Our Cases</h3>
@@ -27,7 +27,7 @@ const OurCases = () => {
         <div className='row ov-cm'>
           <div className='col-lg-5 col-md-6 col-sm-12'>
             <div className='col-ov-img'>
-              <img src="/images/ov-c.jpg" alt="ov-c" />
+              <img src="images/ov-c.jpg" alt="ov-c" />
             </div>
           </div>
           <div className='col-lg-7 col-md-6 col-sm-12'>
@@ -39,7 +39,7 @@ const OurCases = () => {
                 <div className='row ski-tea'>
                   <div className='col-lg-6 col-md-12 col-sm-12'>
                     <div className='col-ski-mod' data-aos="fade-right" data-aos-duration="1100">
-                      <img src="/images/chinese.jpg" alt="chinese" />
+                      <img src="images/chinese.jpg" alt="chinese" />
                       <button className='ov-btn' data-bs-toggle="modal" data-bs-target="#ov-come"><i className="fa-solid fa-play"></i></button>
                     </div>
                   </div>
@@ -48,7 +48,7 @@ const OurCases = () => {
                       <h3>Experienced & Skilled Team</h3>
                       <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
                       <div className='skits-img'>
-                        <img src="/images/col-img.jpg" alt="col-img" />
+                        <img src="images/col-img.jpg" alt="col-img" />
                       </div>
                     </div>
                   </div>
@@ -89,7 +89,7 @@ const OurCases = () => {
         <div className='col-lg-4 col-md-6 col-sm-12'>
           <div className='col-cas-psr'>
             <div className='cas-img'>
-              <img src="/images/tea-pic.jpg" alt="tea-pic" />
+              <img src="images/tea-pic.jpg" alt="tea-pic" />
             </div>
             <div className='cas-txt'>
               <h5>Breaking Free from Depression</h5>
@@ -101,7 +101,7 @@ const OurCases = () => {
         <div className='col-lg-4 col-md-6 col-sm-12'>
           <div className='col-cas-psr'>
             <div className='cas-img'>
-              <img src="/images/hol-5.jpg" alt="tea-pic" />
+              <img src="images/hol-5.jpg" alt="tea-pic" />
             </div>
             <div className='cas-txt'>
               <h5>Finding Peace Amidst Anxiety</h5>
@@ -113,7 +113,7 @@ const OurCases = () => {
         <div className='col-lg-4 col-md-6 col-sm-12'>
           <div className='col-cas-psr'>
             <div className='cas-img'>
-              <img src="/images/col-img.jpg" alt="tea-pic" />
+              <img src="images/col-img.jpg" alt="tea-pic" />
             </div>
             <div className='cas-txt'>
               <h5>Rebuilding Trust and Connection</h5>
@@ -125,7 +125,7 @@ const OurCases = () => {
         <div className='col-lg-4 col-md-6 col-sm-12'>
           <div className='col-cas-psr'>
             <div className='cas-img'>
-              <img src="/images/Transformat.jpg" alt="tea-pic" />
+              <img src="images/Transformat.jpg" alt="tea-pic" />
             </div>
             <div className='cas-txt'>
               <h5>Navigating Life Transitions Cases</h5>
@@ -137,7 +137,7 @@ const OurCases = () => {
         <div className='col-lg-4 col-md-6 col-sm-12'>
           <div className='col-cas-psr'>
             <div className='cas-img'>
-              <img src="/images/sit-pic.jpg" alt="tea-pic" />
+              <img src="images/sit-pic.jpg" alt="tea-pic" />
             </div>
             <div className='cas-txt'>
               <h5>A Path to Emotional Well-Being</h5>
@@ -149,7 +149,7 @@ const OurCases = () => {
         <div className='col-lg-4 col-md-6 col-sm-12'>
           <div className='col-cas-psr'>
             <div className='cas-img'>
-              <img src="/images/hol-1.jpg" alt="tea-pic" />
+              <img src="images/hol-1.jpg" alt="tea-pic" />
             </div>
             <div className='cas-txt'>
               <h5>Cultivating Self-Care and Balance</h5>
@@ -176,7 +176,7 @@ const OurCases = () => {
 
       <section className='testimonialsa'>
         <div className='testi-wrap-img'>
-          <img src="/images/col-img.jpg" alt="col-jpg" />
+          <img src="images/col-img.jpg" alt="col-jpg" />
         </div>
         <div className='container'>
           <div className='texti-txt-wrap'>

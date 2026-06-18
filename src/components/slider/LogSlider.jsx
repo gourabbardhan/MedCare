@@ -42,19 +42,19 @@ function LogSlider() {
     <div>
       <Slider key={location.key} {...settings}>
         <div className="logon-wrap">
-          <div className="logo-n"><img src="/images/Frame.png" alt="logo-slide"/></div>
+          <div className="logo-n"><img src="images/Frame.png" alt="logo-slide"/></div>
         </div>
         <div className="logon-wrap">
-          <div className="logo-n"><img src="/images/Frame-1.png" alt="logo-slide"/></div>
+          <div className="logo-n"><img src="images/Frame-1.png" alt="logo-slide"/></div>
         </div>
         <div className="logon-wrap">
-          <div className="logo-n"><img src="/images/Frame-2.png" alt="logo-slide"/></div>
+          <div className="logo-n"><img src="images/Frame-2.png" alt="logo-slide"/></div>
         </div>
         <div className="logon-wrap">
-          <div className="logo-n"><img src="/images/Frame-3.png" alt="logo-slide"/></div>
+          <div className="logo-n"><img src="images/Frame-3.png" alt="logo-slide"/></div>
         </div>
         <div className="logon-wrap">
-          <div className="logo-n"><img src="/images/Frame-4.png" alt="logo-slide"/></div>
+          <div className="logo-n"><img src="images/Frame-4.png" alt="logo-slide"/></div>
         </div> 
       </Slider>
     </div>

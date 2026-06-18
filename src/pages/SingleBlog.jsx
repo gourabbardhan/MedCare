@@ -8,7 +8,7 @@ const SingleBlog = () => {
      {/* mini-banner */}
 
       <section className='mini-banner'>
-        <img src="/images/col-img.jpg" alt="blog-banner" />
+        <img src="images/col-img.jpg" alt="blog-banner" />
         <div className='container'>
           <div className='about-banner'>
             <h3>Single Blog</h3>
@@ -25,7 +25,7 @@ const SingleBlog = () => {
             <div className='col-lg-7 col-md-12 col-sm-12'>
               <div className='col-well'>
                 <div className='col-well-img'>
-                  <img src="/images/tea-pic.jpg" alt="tea-pic" />
+                  <img src="images/tea-pic.jpg" alt="tea-pic" />
                 </div>
                 <div className='well-social'>
                   <a href="https://www.facebook.com/" target='_blank' className='bot-social' data-aos="fade-right" data-aos-duration="900"><i className="fa-brands fa-facebook-f trt"></i></a>
@@ -73,28 +73,28 @@ const SingleBlog = () => {
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut elit tellus.ibus leo.</p>
                 <div className='col-bot-wrap'>
                   <div className='poer-bot'>
-                    <Link to="/ourblog" className='poer-img'><img src="/images/hol-6.jpg" alt="hol-6" /></Link>
+                    <Link to="/ourblog" className='poer-img'><img src="images/hol-6.jpg" alt="hol-6" /></Link>
                     <div className='poer-txt'>
                       <h5>March 18, 2024</h5>
                       <Link to="/ourblog" className='poer-anch' data-aos="fade-up" data-aos-duration="1000">Setting Healthy Limits for Better Well-Being</Link>
                     </div>
                   </div>
                   <div className='poer-bot'>
-                    <Link to="/ourblog" className='poer-img'><img src="/images/hol-1.jpg" alt="hol-1" /></Link>
+                    <Link to="/ourblog" className='poer-img'><img src="images/hol-1.jpg" alt="hol-1" /></Link>
                     <div className='poer-txt'>
                       <h5>March 18, 2024</h5>
                       <Link to="/ourblog" className='poer-anch' data-aos="fade-up" data-aos-duration="1100">Signs Symptoms and Treatment Options</Link>
                     </div>
                   </div>
                   <div className='poer-bot'>
-                    <Link to="/ourblog" className='poer-img'><img src="/images/banner.jpg" alt="banner" /></Link>
+                    <Link to="/ourblog" className='poer-img'><img src="images/banner.jpg" alt="banner" /></Link>
                     <div className='poer-txt'>
                       <h5>March 18, 2024</h5>
                       <Link to="/ourblog" className='poer-anch' data-aos="fade-up" data-aos-duration="1200">Strategies for Coping with Life’s Challenges</Link>
                     </div>
                   </div>
                   <div className='poer-bot'>
-                    <Link to="/ourblog" className='poer-img'><img src="/images/hol-5.jpg" alt="hol-5" /></Link>
+                    <Link to="/ourblog" className='poer-img'><img src="images/hol-5.jpg" alt="hol-5" /></Link>
                     <div className='poer-txt'>
                       <h5>March 18, 2024</h5>
                       <Link to="/ourblog" className='poer-anch' data-aos="fade-up" data-aos-duration="1300">The Power of Self-Compassion</Link>

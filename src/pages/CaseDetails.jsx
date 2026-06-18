@@ -9,7 +9,7 @@ const CaseDetails = () => {
       {/* mini-banner */}
 
       <section className='mini-banner'>
-        <img src="/images/sit-pic.jpg" alt="sit-banner" />
+        <img src="images/sit-pic.jpg" alt="sit-banner" />
         <div className='container'>
           <div className='about-banner'>
             <h3>Case Detail</h3>
@@ -24,7 +24,7 @@ const CaseDetails = () => {
         <div className='container'>
           <div className='depre-wrap'>
             <div className='depre-img'>
-              <img src="/images/dep-img.jpg" alt="dep-img" />
+              <img src="images/dep-img.jpg" alt="dep-img" />
               <button className='dep-btn' data-bs-toggle="modal" data-bs-target="#dep-sel"><i className="fa-solid fa-play"></i></button>
             </div>
             <div className='depre-bar'>
@@ -140,7 +140,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 {/* Prioritize */}
 
 <section className='prioritize'>
-  <img src="/images/priotize.jpg" alt="priotize" />
+  <img src="images/priotize.jpg" alt="priotize" />
   <div className='container'>
     <div className='prio-wrap'>
       <h2 data-aos="zoom-in" data-aos-duration="1000">Ready to prioritize your mental health?</h2>

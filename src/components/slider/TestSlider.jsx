@@ -42,7 +42,7 @@ const TestSlider = () => {
         <div className='testic-wrap'>
             <div className='test-img'>
             <div className='monial-img'>
-                <img src="/images/docs-12.jpg" alt="hol-pic" />
+                <img src="images/docs-12.jpg" alt="hol-pic" />
             </div>
             <h3>Arjune Erigaisi</h3>
             <h5>Doctor</h5>
@@ -60,7 +60,7 @@ const TestSlider = () => {
         <div className='testic-wrap'>
             <div className='test-img'>
             <div className='monial-img'>
-                <img src="/images/doc-11.jpg" alt="hol-pic" />
+                <img src="images/doc-11.jpg" alt="hol-pic" />
             </div>
             <h3>Divya Sardah</h3>
             <h5>Doctor</h5>
@@ -79,7 +79,7 @@ const TestSlider = () => {
         <div className='testic-wrap'>
             <div className='test-img'>
             <div className='monial-img'>
-                <img src="/images/docs-12.jpg" alt="hol-pic" />
+                <img src="images/docs-12.jpg" alt="hol-pic" />
             </div>
             <h3>Arjune Erigaisi</h3>
             <h5>Doctor</h5>

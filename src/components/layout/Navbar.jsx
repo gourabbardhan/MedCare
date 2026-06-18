@@ -35,7 +35,7 @@ function Navbar() {
           <div className="container">
             
             <Link className="navbar-brand header-logo" to='/'>
-              <img src="/images/Minds-dark.png" alt="mental-logo" />
+              <img src="images/Minds-dark.png" alt="mental-logo" />
             </Link>
 
             <button
